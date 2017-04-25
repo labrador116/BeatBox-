@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sbt-markin-aa/Documents/dev_proj/BeatBox-/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ccc49e982a79a73765ac631e4c2587a3c485de1">
+        <dex dex="/Users/sbt-markin-aa/Documents/dev_proj/BeatBox-/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_12aebb8d82f897a0ac20989e5cf4c19219fff8f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sbt-markin-aa/Documents/dev_proj/BeatBox-/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/sbt-markin-aa/Documents/dev_proj/BeatBox-/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1fe7af08ee8f5486ef46bf4a20e152571eeb1723/classes.dex" />
+    </item>
+
+</items>
